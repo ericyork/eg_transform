@@ -13,7 +13,15 @@ hr {
 a:link {
 
 }
+a:visited {
 
+}
+a:hover {
+
+}
+a:active {
+
+}
 .box {
   width: 100px;
   height: 100px;
