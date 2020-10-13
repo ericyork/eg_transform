@@ -5,6 +5,15 @@ body {
 hr {
   margin: 1em 0;
 }
+.links {
+  font-size: ;
+  display: flex;
+  flex-direction: column;
+}
+a:link {
+
+}
+
 .box {
   width: 100px;
   height: 100px;
