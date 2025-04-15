@@ -6,21 +6,21 @@ hr {
   margin: 1em 0;
 }
 .links {
-  font-size: ;
   display: flex;
-  flex-direction: column;
+  gap: 1em;
+  font-weight: 600;
 }
 a:link {
-
+  color: cornflowerblue;
 }
 a:visited {
-
+  color: cornflowerblue;
 }
 a:hover {
-
+  color: steelblue;
 }
 a:active {
-
+  outline: dotted;
 }
 .box {
   width: 100px;
